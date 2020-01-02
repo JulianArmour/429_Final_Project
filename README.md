@@ -1,2 +1,2 @@
-# 429_Final_Project
-A mutation test simulator that reads Software Under Test, mutates lines, and compares mutation results against fault-free results.
+# 429 Final Project
+Generate a mutant for each arithmetic operator and verifies if test vectors catch the mutant.
